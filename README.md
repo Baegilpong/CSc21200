@@ -14,24 +14,26 @@ Assignment 1: 100
       
 Assignment 2: 95 
   Grading Breakdown:
-    - Running of the program: out of 80 you got 80
-    - The private member variables: out of 10 you got 10
-    - (3) Invariant: out of 10 you got  5 (Please read the instruction more carefully: The Invariant should be stated in the implementation file)
+- Running of the program: out of 80 you got 80
+- The private member variables: out of 10 you got 10
+- Invariant: out of 10 you got  5 (Please read the instruction more carefully: The Invariant should be stated in the implementation file)
     
 Assignment 3: 110
   Grading Breakdown:
-    - Running of the program: out of 60 you got 60
-    - The private member variables: out of 10 you got 10
-    - Invariant : out of 10 you got  10
-    - Value semantics: out of 10 you got 10  
-    - Compiling warnings and code style: out of 10 you got 10
-    - Operators +, += and []: out of 10 bonus points you got  10
+- Running of the program: out of 60 you got 60
+- The private member variables: out of 10 you got 10
+- Invariant : out of 10 you got  10
+- Value semantics: out of 10 you got 10  
+- Compiling warnings and code style: out of 10 you got 10
+- Operators +, += and []: out of 10 bonus points you got  10
+
 Assignemnt 4: 99
   Grading Breakdown:
-  Basis points (70) if your implementation passes the seq_ex3 exam: 70
-    Invariant of the class (5 points): 5
-    Run time analysis (15 points): 15-1 O(1) for destructor of dynamic array
-    Other implementation details (10 points) : 10
+- Basis points (70) if your implementation passes the seq_ex3 exam: 70
+- Invariant of the class (5 points): 5
+- Run time analysis (15 points): 15-1 O(1) for destructor of dynamic array
+- Other implementation details (10 points) : 10
+
 Assignment 5: 100
   Grading Breakdown:
   1. One Binary Number: out of 25 you got: 25
@@ -57,6 +59,6 @@ Assignment 5: 100
 
 Assignment 6: 100 
   Grading Breakdown:
-   max(40, your actual points) =max(40, 80) = 80
-   Invariant of the class and other things (10 points): 10
-   If you submitted the output of your program (10 points) :10
+- max(40, your actual points) =max(40, 80) = 80
+- Invariant of the class and other things (10 points): 10
+- If you submitted the output of your program (10 points) :10
