@@ -8,26 +8,24 @@ Scores:
 
 Assignment 1: 100
   Grading Breakdown:
-      (0) The automatic running of your program gave you 90.
-      
-      (1) Output file attached: 8
-      
-      (2) Other compiling issues: 2
+     - The automatic running of your program gave you 90
+     - Output file attached: 8
+     - Other compiling issues: 2
       
 Assignment 2: 95 
   Grading Breakdown:
-    (1) Running of the program: out of 80 you got 80
-    (2) The private member variables: out of 10 you got 10
-    (3) Invariant: out of 10 you got  5 (Please read the instruction more carefully: The Invariant should be stated in the implementation file)
+    - Running of the program: out of 80 you got 80
+    - The private member variables: out of 10 you got 10
+    - (3) Invariant: out of 10 you got  5 (Please read the instruction more carefully: The Invariant should be stated in the implementation file)
     
 Assignment 3: 110
   Grading Breakdown:
-    (1) Running of the program: out of 60 you got 60
-    (2) The private member variables: out of 10 you got 10
-    (3) Invariant : out of 10 you got  10
-    (4) Value semantics: out of 10 you got 10  
-    (5) Compiling warnings and code style: out of 10 you got 10
-    (6) Operators +, += and []: out of 10 bonus points you got  10
+    - Running of the program: out of 60 you got 60
+    - The private member variables: out of 10 you got 10
+    - Invariant : out of 10 you got  10
+    - Value semantics: out of 10 you got 10  
+    - Compiling warnings and code style: out of 10 you got 10
+    - Operators +, += and []: out of 10 bonus points you got  10
 Assignemnt 4: 99
   Grading Breakdown:
   Basis points (70) if your implementation passes the seq_ex3 exam: 70
