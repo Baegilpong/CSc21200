@@ -3,6 +3,7 @@ Assignments from CCNY CSc21200
 Spring 2021 
 Taught by professor Zhigang Zhu
 Book used: Michael Main, Walter Savitch - Data Structures and Other Objects Using C++ (2010, Pearson)
+
 Scores:
 
 Assignment 1: 100
