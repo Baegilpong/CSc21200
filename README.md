@@ -8,9 +8,9 @@ Scores:
 
 Assignment 1: 100
   Grading Breakdown:
-     - The automatic running of your program gave you 90
-     - Output file attached: 8
-     - Other compiling issues: 2
+- The automatic running of your program gave you 90
+- Output file attached: 8
+- Other compiling issues: 2
       
 Assignment 2: 95 
   Grading Breakdown:
