@@ -1,0 +1,55 @@
+Testing Binary Print Function
+n = 0
+0
+
+n = 2
+10
+
+n = 56
+111000
+
+n = 182
+10110110
+Testing Triangle Function with m=3 and n=5
+***
+****
+*****
+*****
+****
+***
+
+m=4 and n=8
+****
+*****
+******
+*******
+********
+********
+*******
+******
+*****
+****
+
+Testing Pow Function
+4^0 is equal to 1
+2^3 is equal to 8
+5^-4 is equal to 0.0016
+
+Testing Indented Sentences Function
+ This was written by calling number 1.
+  This was written by calling number 2.
+   This was written by calling number 3.
+    This was written by calling number 4.
+     This was written by calling number 5.
+      This was written by calling number 6.
+       This was written by calling number 7.
+       This was ALSO written by calling number 7.
+      This was ALSO written by calling number 6.
+     This was ALSO written by calling number 5.
+    This was ALSO written by calling number 4.
+   This was ALSO written by calling number 3.
+  This was ALSO written by calling number 2.
+ This was ALSO written by calling number 1.
+
+C:\Users\Phong\source\repos\rec_fun\Debug\rec_fun.exe (process 16240) exited with code 0.
+Press any key to close this window . . .
